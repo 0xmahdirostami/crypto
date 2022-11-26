@@ -7,5 +7,5 @@ By runing a "mining.py" it will mine a block which is located in "block.txt" and
 <br>
 Sample output:
 <br>
-![Mining](https://github.com/mahdi-rostami/cryptography/blob/main/Mining/photos/mining.png)
+![Mining](https://github.com/mahdi-rostami/crypto/blob/main/Mining/photos/mining.png)
 
