@@ -6,6 +6,6 @@ By runing a "mining.py" it will mine a block which is located in "block.txt" and
 4. block
 <br>
 Sample output:
-<br>
+
 ![Mining](https://github.com/mahdi-rostami/crypto/blob/main/Mining/photos/mining.png)
 
